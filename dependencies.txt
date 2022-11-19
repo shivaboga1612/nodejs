@@ -1,0 +1,7 @@
+Dependencies to be installed for setting up this project
+
+node-modules
+express
+mongoose
+jsonwebtoken
+bcryptjs
